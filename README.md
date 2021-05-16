@@ -7,6 +7,6 @@ In the concurrent world, the situation of this Covid-19 pandemic has been very d
 I am also working on deepfakes, which are used in this modern world, if anyone wants to learn deepfake using ML and AI, then they can contact me.
 Prerequisites:-
 
-Basic python
-Basic Machine learning knowlegde
+Basic python,
+,Basic Machine learning knowlegde
 Basic CNN knowledge.
